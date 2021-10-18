@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flavio Nogueira
+
 - 👀 I’m interested in learn new languages I want to be able to explecialize myself more in the area of DEV
 - 🌱 I’m currently learning Js and C++
 - 💞️ I’m looking to collaborate on at all i can
