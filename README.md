@@ -16,7 +16,6 @@
   <img align="center" alt="Flavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Flavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Flavio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="right" alt="Flavio-nime" height="120" width="110" src="https://share-cdn.picrew.me/shareImg/org/202110/1097196_IsPLINwB.png">
   </div>
 
   <div> 
